@@ -1,7 +1,7 @@
-# Compliance
+# Certificate of Compliance
 KYC &amp; Audit Compliance
 
-This repository contains cerificates of compliance including KYC certificates, audit certificates, risk analysis reports, incident reports and secured by CrypTegridy certificates.
+This repository contains secured by CrypTegridy certificates which includes KYC verification, smart contract audit verification, risk analysis and project ownership verification.
 
 Disclaimer of Representations and Warranties:
 
